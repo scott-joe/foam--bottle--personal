@@ -1,8 +1,0 @@
-{
-  "Right Arrow": {
-    "scope": "markdown",
-    "prefix": "/rarrow",
-    "description": "Right Arrow",
-    "body": ["➜ "]
-  }
-}
