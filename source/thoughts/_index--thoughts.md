@@ -1,0 +1,3 @@
+# Thoughts
+
+- [[complicated-things]]
