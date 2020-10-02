@@ -1,4 +1,4 @@
-import * as utils from './utils'
+import * as utils from './utils.ts'
 
 // NOTES: FOR BUILDING AND LINKING INDEXES BASED ON FILE STRUCTURE
 
